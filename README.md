@@ -1,4 +1,4 @@
-![poster](./image.png)
+<img src="./image.png" width="100%" height="auto"/>
 
 # SAP Code 멘토링 자료 (CL3 1조)
 
