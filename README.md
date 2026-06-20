@@ -1,3 +1,5 @@
+![poster](./image.png)
+
 # SAP Code 멘토링 자료 (CL3 1조)
 
 SAP Code 과정에서 **학생 멘토**로 활동하며 진행한 ABAP 멘토링 자료를 모아둔 레포지토리입니다.
