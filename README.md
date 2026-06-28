@@ -1,4 +1,4 @@
-<img src="./image.png" width="100%" height="auto"/>
+<img src="https://raw.githubusercontent.com/thrivingroots/SAP-Cloud-On-Development-Excellence-Mentoring_-1/refs/heads/main/image.png" width="100%" height="auto"/>
 
 # SAP Code 멘토링 자료 (CL3 1조)
 
